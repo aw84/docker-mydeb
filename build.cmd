@@ -1,2 +1,1 @@
-docker build --tag deb:0.0.1 --rm -f ./Dockerfile .
-
+docker build --tag deb:0.0.2 --rm -f .\Dockerfile .
